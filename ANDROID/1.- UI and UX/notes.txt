@@ -1,0 +1,13 @@
+Notes:
+- Concept apllication.
+1.- Ver los diferentes sucesos que suceden en Peru.
+    - Ver por mapa.
+2.- Estos sucesos son reportados por los ciudadanos.
+
+
+
+....
+1.- Ver los diferente productos ofertados (a cada dia) [filtros por ubicacion e interes].
+    - Ver por mapa los diferentes negociosa en actividad.
+2.- Cargar producto en venta.
+    -
